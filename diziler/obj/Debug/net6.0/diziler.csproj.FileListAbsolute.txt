@@ -1,0 +1,15 @@
+C:\Users\Monster_Pc\source\repos\Patika\diziler\bin\Debug\net6.0\diziler.exe
+C:\Users\Monster_Pc\source\repos\Patika\diziler\bin\Debug\net6.0\diziler.deps.json
+C:\Users\Monster_Pc\source\repos\Patika\diziler\bin\Debug\net6.0\diziler.runtimeconfig.json
+C:\Users\Monster_Pc\source\repos\Patika\diziler\bin\Debug\net6.0\diziler.dll
+C:\Users\Monster_Pc\source\repos\Patika\diziler\bin\Debug\net6.0\diziler.pdb
+C:\Users\Monster_Pc\source\repos\Patika\diziler\obj\Debug\net6.0\diziler.csproj.AssemblyReference.cache
+C:\Users\Monster_Pc\source\repos\Patika\diziler\obj\Debug\net6.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster_Pc\source\repos\Patika\diziler\obj\Debug\net6.0\diziler.AssemblyInfoInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\diziler\obj\Debug\net6.0\diziler.AssemblyInfo.cs
+C:\Users\Monster_Pc\source\repos\Patika\diziler\obj\Debug\net6.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\diziler\obj\Debug\net6.0\diziler.dll
+C:\Users\Monster_Pc\source\repos\Patika\diziler\obj\Debug\net6.0\refint\diziler.dll
+C:\Users\Monster_Pc\source\repos\Patika\diziler\obj\Debug\net6.0\diziler.pdb
+C:\Users\Monster_Pc\source\repos\Patika\diziler\obj\Debug\net6.0\diziler.genruntimeconfig.cache
+C:\Users\Monster_Pc\source\repos\Patika\diziler\obj\Debug\net6.0\ref\diziler.dll
