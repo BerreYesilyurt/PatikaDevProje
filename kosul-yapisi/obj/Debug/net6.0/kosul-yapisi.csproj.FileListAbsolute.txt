@@ -1,0 +1,15 @@
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\bin\Debug\net6.0\kosul-yapisi.exe
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\bin\Debug\net6.0\kosul-yapisi.deps.json
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\bin\Debug\net6.0\kosul-yapisi.runtimeconfig.json
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\bin\Debug\net6.0\kosul-yapisi.dll
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\bin\Debug\net6.0\kosul-yapisi.pdb
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\obj\Debug\net6.0\kosul-yapisi.csproj.AssemblyReference.cache
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\obj\Debug\net6.0\kosul-yapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\obj\Debug\net6.0\kosul-yapisi.AssemblyInfoInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\obj\Debug\net6.0\kosul-yapisi.AssemblyInfo.cs
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\obj\Debug\net6.0\kosul-yapisi.csproj.CoreCompileInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\obj\Debug\net6.0\kosul-yapisi.dll
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\obj\Debug\net6.0\refint\kosul-yapisi.dll
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\obj\Debug\net6.0\kosul-yapisi.pdb
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\obj\Debug\net6.0\kosul-yapisi.genruntimeconfig.cache
+C:\Users\Monster_Pc\source\repos\Patika\kosul-yapisi\obj\Debug\net6.0\ref\kosul-yapisi.dll
