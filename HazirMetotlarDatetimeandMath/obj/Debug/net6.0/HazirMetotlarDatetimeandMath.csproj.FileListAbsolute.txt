@@ -1,0 +1,15 @@
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\obj\Debug\net6.0\HazirMetotlarDatetimeandMath.csproj.AssemblyReference.cache
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\obj\Debug\net6.0\HazirMetotlarDatetimeandMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\obj\Debug\net6.0\HazirMetotlarDatetimeandMath.AssemblyInfoInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\obj\Debug\net6.0\HazirMetotlarDatetimeandMath.AssemblyInfo.cs
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\obj\Debug\net6.0\HazirMetotlarDatetimeandMath.csproj.CoreCompileInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\bin\Debug\net6.0\HazirMetotlarDatetimeandMath.exe
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\bin\Debug\net6.0\HazirMetotlarDatetimeandMath.deps.json
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\bin\Debug\net6.0\HazirMetotlarDatetimeandMath.runtimeconfig.json
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\bin\Debug\net6.0\HazirMetotlarDatetimeandMath.dll
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\bin\Debug\net6.0\HazirMetotlarDatetimeandMath.pdb
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\obj\Debug\net6.0\HazirMetotlarDatetimeandMath.dll
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\obj\Debug\net6.0\refint\HazirMetotlarDatetimeandMath.dll
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\obj\Debug\net6.0\HazirMetotlarDatetimeandMath.pdb
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\obj\Debug\net6.0\HazirMetotlarDatetimeandMath.genruntimeconfig.cache
+C:\Users\Monster_Pc\source\repos\Patika\HazirMetotlarDatetimeandMath\obj\Debug\net6.0\ref\HazirMetotlarDatetimeandMath.dll
