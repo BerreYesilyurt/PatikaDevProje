@@ -1,0 +1,15 @@
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\obj\Debug\net6.0\array-sinifi-metotlari.csproj.AssemblyReference.cache
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\obj\Debug\net6.0\array-sinifi-metotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\obj\Debug\net6.0\array-sinifi-metotlari.AssemblyInfoInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\obj\Debug\net6.0\array-sinifi-metotlari.AssemblyInfo.cs
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\obj\Debug\net6.0\array-sinifi-metotlari.csproj.CoreCompileInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\bin\Debug\net6.0\array-sinifi-metotlari.exe
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\bin\Debug\net6.0\array-sinifi-metotlari.deps.json
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\bin\Debug\net6.0\array-sinifi-metotlari.runtimeconfig.json
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\bin\Debug\net6.0\array-sinifi-metotlari.dll
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\bin\Debug\net6.0\array-sinifi-metotlari.pdb
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\obj\Debug\net6.0\array-sinifi-metotlari.dll
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\obj\Debug\net6.0\refint\array-sinifi-metotlari.dll
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\obj\Debug\net6.0\array-sinifi-metotlari.pdb
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\obj\Debug\net6.0\array-sinifi-metotlari.genruntimeconfig.cache
+C:\Users\Monster_Pc\source\repos\Patika\array-sinifi-metotlari\obj\Debug\net6.0\ref\array-sinifi-metotlari.dll
