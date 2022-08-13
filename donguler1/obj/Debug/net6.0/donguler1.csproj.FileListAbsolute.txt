@@ -1,0 +1,15 @@
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\bin\Debug\net6.0\donguler1.exe
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\bin\Debug\net6.0\donguler1.deps.json
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\bin\Debug\net6.0\donguler1.runtimeconfig.json
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\bin\Debug\net6.0\donguler1.dll
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\bin\Debug\net6.0\donguler1.pdb
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\obj\Debug\net6.0\donguler1.csproj.AssemblyReference.cache
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\obj\Debug\net6.0\donguler1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\obj\Debug\net6.0\donguler1.AssemblyInfoInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\obj\Debug\net6.0\donguler1.AssemblyInfo.cs
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\obj\Debug\net6.0\donguler1.csproj.CoreCompileInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\obj\Debug\net6.0\donguler1.dll
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\obj\Debug\net6.0\refint\donguler1.dll
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\obj\Debug\net6.0\donguler1.pdb
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\obj\Debug\net6.0\donguler1.genruntimeconfig.cache
+C:\Users\Monster_Pc\source\repos\Patika\donguler1\obj\Debug\net6.0\ref\donguler1.dll
