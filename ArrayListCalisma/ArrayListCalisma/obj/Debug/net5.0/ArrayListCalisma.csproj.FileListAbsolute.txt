@@ -1,0 +1,16 @@
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\bin\Debug\net5.0\ArrayListCalisma.exe
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\bin\Debug\net5.0\ArrayListCalisma.deps.json
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\bin\Debug\net5.0\ArrayListCalisma.runtimeconfig.json
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\bin\Debug\net5.0\ArrayListCalisma.runtimeconfig.dev.json
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\bin\Debug\net5.0\ArrayListCalisma.dll
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\bin\Debug\net5.0\ref\ArrayListCalisma.dll
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\bin\Debug\net5.0\ArrayListCalisma.pdb
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\obj\Debug\net5.0\ArrayListCalisma.csproj.AssemblyReference.cache
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\obj\Debug\net5.0\ArrayListCalisma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\obj\Debug\net5.0\ArrayListCalisma.AssemblyInfoInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\obj\Debug\net5.0\ArrayListCalisma.AssemblyInfo.cs
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\obj\Debug\net5.0\ArrayListCalisma.csproj.CoreCompileInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\obj\Debug\net5.0\ArrayListCalisma.dll
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\obj\Debug\net5.0\ref\ArrayListCalisma.dll
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\obj\Debug\net5.0\ArrayListCalisma.pdb
+C:\Users\Monster_Pc\source\repos\Patika\ArrayListCalisma\ArrayListCalisma\obj\Debug\net5.0\ArrayListCalisma.genruntimeconfig.cache
