@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DictionaryCalismasi/1.0.0": {
+        "runtime": {
+          "DictionaryCalismasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DictionaryCalismasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

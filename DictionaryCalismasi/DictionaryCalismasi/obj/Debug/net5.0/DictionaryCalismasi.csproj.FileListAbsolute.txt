@@ -1,0 +1,16 @@
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\bin\Debug\net5.0\DictionaryCalismasi.exe
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\bin\Debug\net5.0\DictionaryCalismasi.deps.json
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\bin\Debug\net5.0\DictionaryCalismasi.runtimeconfig.json
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\bin\Debug\net5.0\DictionaryCalismasi.runtimeconfig.dev.json
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\bin\Debug\net5.0\DictionaryCalismasi.dll
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\bin\Debug\net5.0\ref\DictionaryCalismasi.dll
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\bin\Debug\net5.0\DictionaryCalismasi.pdb
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\obj\Debug\net5.0\DictionaryCalismasi.csproj.AssemblyReference.cache
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\obj\Debug\net5.0\DictionaryCalismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\obj\Debug\net5.0\DictionaryCalismasi.AssemblyInfoInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\obj\Debug\net5.0\DictionaryCalismasi.AssemblyInfo.cs
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\obj\Debug\net5.0\DictionaryCalismasi.csproj.CoreCompileInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\obj\Debug\net5.0\DictionaryCalismasi.dll
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\obj\Debug\net5.0\ref\DictionaryCalismasi.dll
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\obj\Debug\net5.0\DictionaryCalismasi.pdb
+C:\Users\Monster_Pc\source\repos\Patika\DictionaryCalismasi\DictionaryCalismasi\obj\Debug\net5.0\DictionaryCalismasi.genruntimeconfig.cache
