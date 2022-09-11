@@ -1,0 +1,15 @@
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\bin\Debug\net6.0\kurucu-metotlar.exe
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\bin\Debug\net6.0\kurucu-metotlar.deps.json
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\bin\Debug\net6.0\kurucu-metotlar.runtimeconfig.json
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\bin\Debug\net6.0\kurucu-metotlar.dll
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\bin\Debug\net6.0\kurucu-metotlar.pdb
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.csproj.AssemblyReference.cache
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.AssemblyInfoInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.AssemblyInfo.cs
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.dll
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\obj\Debug\net6.0\refint\kurucu-metotlar.dll
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.pdb
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.genruntimeconfig.cache
+C:\Users\Monster_Pc\source\repos\Patika\kurucu-metotlar\obj\Debug\net6.0\ref\kurucu-metotlar.dll
