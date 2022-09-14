@@ -1,0 +1,15 @@
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\bin\Debug\net6.0\static-sinif.exe
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\bin\Debug\net6.0\static-sinif.deps.json
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\bin\Debug\net6.0\static-sinif.runtimeconfig.json
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\bin\Debug\net6.0\static-sinif.dll
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\bin\Debug\net6.0\static-sinif.pdb
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\obj\Debug\net6.0\static-sinif.csproj.AssemblyReference.cache
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\obj\Debug\net6.0\static-sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\obj\Debug\net6.0\static-sinif.AssemblyInfoInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\obj\Debug\net6.0\static-sinif.AssemblyInfo.cs
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\obj\Debug\net6.0\static-sinif.csproj.CoreCompileInputs.cache
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\obj\Debug\net6.0\static-sinif.dll
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\obj\Debug\net6.0\refint\static-sinif.dll
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\obj\Debug\net6.0\static-sinif.pdb
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\obj\Debug\net6.0\static-sinif.genruntimeconfig.cache
+C:\Users\Monster_Pc\source\repos\Patika\static-sinif\obj\Debug\net6.0\ref\static-sinif.dll
